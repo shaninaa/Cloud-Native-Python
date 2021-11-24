@@ -2,7 +2,7 @@
 This is the code repository for [Cloud Native Python](https://www.packtpub.com/application-development/cloud-native-python?utm_source=github&utm_medium=repository&utm_campaign=9781787129313), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Businesses today are evolving so rapidly that having their own infrastructure to support their expansion is not feasible. As a result, they have been resorting to the elasticity of the cloud to provide a platform to build and deploy their highly scalable applications.
-
+shanina
 
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
